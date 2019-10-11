@@ -17,8 +17,7 @@ To hook into a function you can use `pre_<function-name>: function(...parameters
 Your hooks should return a promise that resolves the object you want to pass into the original localStorage plugin.
 
 ## Examples
-`
-const fs = require('fs');
+`const fs = require('fs');
 
 const settings = {
   storageModule: require("node-red-storage-hooks"),
