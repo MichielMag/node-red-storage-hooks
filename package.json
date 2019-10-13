@@ -1,0 +1,19 @@
+{
+  "name": "node-red-storage-hooks",
+  "version": "1.0.0",
+  "description": "Hook into Node-Red's storage API from your settings.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichielMag/node-red-storage-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichielMag/node-red-storage-hooks/issues"
+  },
+  "homepage": "https://github.com/MichielMag/node-red-storage-hooks#readme"
+}
